@@ -7,7 +7,9 @@ The parallel version of some bam statistics utilities based on mmbam library
 Introduction
 ------------
 Partial bam information statistics functions include:
+
     read counts
+
     mpileup
 
 
